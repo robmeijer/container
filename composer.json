@@ -1,0 +1,26 @@
+{
+    "name": "rm/container",
+    "description": "A dependency injection container based on league/container.",
+    "homepage": "https://github.com/robmeijer/container",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Meijer",
+            "email": "email@robmeijer.co.uk",
+            "homepage": "https://robmeijer.co.uk",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RM\\Container\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.1",
+        "league/container": "^3.3"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}
