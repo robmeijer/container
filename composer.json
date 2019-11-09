@@ -12,6 +12,9 @@
         }
     ],
     "autoload": {
+        "files": [
+            "functions/container.php"
+        ],
         "psr-4": {
             "RobM\\Container\\": "src/"
         }
