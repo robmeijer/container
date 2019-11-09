@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace RM\Container;
+namespace RobM\Container;
 
 use League\Container\Container as BaseContainer;
 use League\Container\ContainerAwareInterface;

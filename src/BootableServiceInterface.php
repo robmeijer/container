@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace RM\Container;
+namespace RobM\Container;
 
 interface BootableServiceInterface
 {

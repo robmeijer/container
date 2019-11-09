@@ -1,5 +1,5 @@
 {
-    "name": "rm/container",
+    "name": "robm/container",
     "description": "A dependency injection container based on league/container.",
     "homepage": "https://github.com/robmeijer/container",
     "license": "MIT",
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "RM\\Container\\": "src/"
+            "RobM\\Container\\": "src/"
         }
     },
     "require": {
